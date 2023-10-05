@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagesWebParser", "ImagesWebParser\ImagesWebParser.csproj", "{5F78FDFE-FE41-4A94-9135-2870E3E6E2EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F78FDFE-FE41-4A94-9135-2870E3E6E2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F78FDFE-FE41-4A94-9135-2870E3E6E2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F78FDFE-FE41-4A94-9135-2870E3E6E2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F78FDFE-FE41-4A94-9135-2870E3E6E2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B960A5FC-1C45-4A45-A287-22E54D9113FE}
+	EndGlobalSection
+EndGlobal
